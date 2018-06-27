@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="ques1">ques1</string>
+    <string name="ques3">ques3</string>
+    <string name="ques2">ques2</string>
+    <string name="option1">op1</string>
+    <string name="option2">op2</string>
+    <string name="option3">op3</string>
+    <string name="option4">op4</string>
+</resources>
