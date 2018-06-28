@@ -41,16 +41,16 @@ public class FirebaseDB {
         questionList.add(q4);
         Question q5 = new Question("Which is the biggest largest city in the world ?", "Vienna", "Reno", "Delhi", "Reno");
         questionList.add(q5);
-//        Question q6 = new Question("Which is the biggest desert in in the world ?", "Thar", "Sahara", "Mohave", "Sahara");
-//        questionList.add(q6);
-//        Question q7 = new Question("Which is the the largest coffee growing country in the world ?", "Brazil", "India", "Myanmar", "Brazil");
-//        questionList.add(q7);
-//        Question q8 = new Question("Which is the longest river in the world ?", "Ganga", "Amazon", "Nile", "Nile");
-//        questionList.add(q8);
-//        Question q9 = new Question("Which country is known as the country of copper ?", "Somalia", "Cameroon", "Zambia", "Zambia");
-//        questionList.add(q9);
-//        Question q10 = new Question("Which is the world's oldest known city ?", "Rome", "Damascus", "Jerusalem", "Damascus");
-//        questionList.add(q10);
+        Question q6 = new Question("Which is the biggest desert in in the world ?", "Thar", "Sahara", "Mohave", "Sahara");
+        questionList.add(q6);
+        Question q7 = new Question("Which is the the largest coffee growing country in the world ?", "Brazil", "India", "Myanmar", "Brazil");
+        questionList.add(q7);
+        Question q8 = new Question("Which is the longest river in the world ?", "Ganga", "Amazon", "Nile", "Nile");
+        questionList.add(q8);
+        Question q9 = new Question("Which country is known as the country of copper ?", "Somalia", "Cameroon", "Zambia", "Zambia");
+        questionList.add(q9);
+        Question q10 = new Question("Which is the world's oldest known city ?", "Rome", "Damascus", "Jerusalem", "Damascus");
+        questionList.add(q10);
 
         addQuestionToDB(questionList);
 
